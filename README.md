@@ -1,11 +1,12 @@
+###         Hi there 👋, I am Rajesh_
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi, I am Rajesh 🔮.
+- A developer who employs money_
 
-I write a lot of code
+👨‍🎤 23 years old_
 
-- 23 years old
-! Developer / Full stack / Employ money
-# 📖 A lot of ai and finance stuff, currently developing something cool.
+🛠 Python/Tensorflow/Django/JS_
+
+📖 React/React Native/CPP_
 ```
