@@ -6,7 +6,7 @@
 
 👨‍🎤 23 years old_
 
-🛠 Python/Tensorflow/Django/JS_
+🛠 Python/Tensorflow/Django/JS/React_
 
-📖 React/React Native/CPP_
+📖 React Native/CPP_
 ```
