@@ -8,5 +8,5 @@
 
 🛠 Python/Tensorflow/Django/JS/React_
 
-📖 React Native/CPP_
+📖 React Native/CPP/ExpressJS/MongoDB_
 ```
