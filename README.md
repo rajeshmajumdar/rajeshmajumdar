@@ -6,9 +6,9 @@
 
 👨‍🎤 23 years old_
 
-🛠 Python/Tensorflow/Django/JS/React/C/CPP_
+🛠 Python3/Tensorflow/Django/JS/C/CPP_
 
-📖 React Native/ExpressJS/MongoDB_
+📖 Rust/Swift_
 ```
 
 [![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmajumdar)](https://github.com/rajeshmajumdar/github-readme-stats)
