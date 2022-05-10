@@ -10,5 +10,3 @@
 
 📖 Rust/Swift_
 ```
-
-[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmajumdar)](https://github.com/rajeshmajumdar/github-readme-stats)
