@@ -6,7 +6,7 @@
 
 👨‍🎤 23 years old_
 
-🛠 Python3/Tensorflow/ASM/Rust/C/CPP_
+🛠 Python3/ASM/Rust/C/CPP_
 
-📖 OS/Kernel_
+📖 Some random stuff_
 ```
